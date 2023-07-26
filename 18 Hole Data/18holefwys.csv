@@ -4,4 +4,9 @@ Round,Course,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9,Hole
 2,Village Links 18 Hole,Y,L,,R,Y,L,L,,Y,Y,,L,L,Y,L,L,,Y
 3,Village Links 18 Hole,L,Y,,L,Y,L,Y,,L,L,,R,L,Y,Y,Y,,Y
 4,Klein Creek Golf Club,R,Y,Y,,L,Y,Y,,Y,D,R,L,L,,Y,Y,,Y
-5,TPC Deere Run,R,Y,NA,Y,Y,Y,NA,S,Y,Y,D,NA,L,Y,Y,NA,L,R
+5,TPC Deere Run,R,Y,,Y,Y,Y,,S,Y,Y,D,,L,Y,Y,,L,R
+6,Glen Oak Country Club,R,Y,,R,Y,,Y,Y,L,Y,,L,L,L,Y,,R,Y
+7,Glen Oak Country Club,L,L,,L,L,,Y,L,R,Y,,Y,L,Y,R,,R,L
+8,Dubsdread,R,,Y,L,R,,Y,L,L,L,Y,,L,,L,S,L,L
+9,Old Wayne Golf Club,L,Y,L,Y,,Y,L,,Y,Y,Y,,L,L,L,Y,,L
+10,Glen Oak Country Club,R,L,NA,Y,Y,NA,Y,Y,L,L,NA,R,L,L,L,NA,L,L

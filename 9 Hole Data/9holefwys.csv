@@ -2,4 +2,5 @@ Round,Course,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9
 0,Village Links 18 Hole Front,Y,R,,L,R,L,L,,R
 1,Village Links 18 Hole Front,Y,L,,L,L,L,L,,L
 2,Glen Oak Country Club Front,Y,R,,R,L,,L,Y,S
-3,Glendale Lakes Front,R,L,NA,Y,Y,NA,Y,NA,R
+3,Glendale Lakes Front,R,L,,Y,Y,,Y,,R
+4,Glen Oak Country Club Back,L,NA,Y,L,L,L,NA,L,L
